@@ -61,9 +61,9 @@
 									</ul> 
 								</li>
 								<li><a href="ourschool.php">Το Σχολειο μας </a></li>
-								<li><a href="index-2.php">Συλλογος Γονεων</a></li>
+                                                                <li><a href="parents.php">Συλλογος Γονεων</a></li>
                                                                 <li><a href="actions.php">Δρασεις </a></li>
-								<li><a href="index-4.php">Ευρωπαϊκα Προγραμματα</a></li>
+                                                                <li><a href="europianprograms.php">Ευρωπαϊκα Προγραμματα</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>

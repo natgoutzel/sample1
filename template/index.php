@@ -87,12 +87,15 @@
 <!--==============================header=================================-->
 		<header>
 			<div class="clear"></div>
-			<div class="container_12">
+	
+                        <div class="container_12">
+                         
+                            
 				<div class="grid_12">
-					<h1>
+                                    <h1>
                                             <a href="index.php">
-							<img src="images/logo.png" alt="Your Happy Family">
-						</a>
+                                                <img src="images/kladi.png" alt="Your Happy Family"style="width:110px;height:50px;">
+                                            </a>
 					</h1>
 					<div class="menu_block">
 						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
@@ -109,9 +112,9 @@
 									</ul>
 								 </li>
                                                                 <li><a href="ourschool.php">Το Σχολειο μας </a></li>
-								<li><a href="index-2.php">Συλλογος Γονεων</a></li>
+                                                                <li><a href="parents.php">Συλλογος Γονεων</a></li>
                                                                 <li><a href="actions.php">Δρασεις </a></li>
-								<li><a href="index-4.php">Ευρωπαϊκα Προγραμματα</a></li>
+                                                                <li><a href="europianprograms.php">Ευρωπαϊκα Προγραμματα</a></li>
                                                         </ul>
 						</nav>
 						<div class="clear"></div>
@@ -128,21 +131,21 @@
 						<div class="flexslider">
 							<ul class="slides">
 								<li>
-									<img src="images/page1_img1.jpg" alt="">
+                                                                    <img src="images/school1.jpg" alt="">
 									<div class="flex-caption">
-										<p>Hope</p>
+										<p>το</p>
 									</div>
 								</li>
 								<li>
-									<img src="images/page1_img2.jpg" alt="">
+                                                                    <img src="images/school2.jpg" alt="" >
 									<div class="flex-caption c2">
-										<p>Save</p>
+										<p>σχολειο</p>
 									</div>
 								</li>
 								<li>
-									<img src="images/page1_img3.jpg" alt="">
+                                                                    <img src="images/school1.jpg" alt="">
 									<div class="flex-caption">
-										<p>Help</p>
+										<p>μας</p>
 									</div>
 								</li>
 							</ul>
@@ -150,7 +153,7 @@
 						<span id="responsiveFlag"></span>
 					</div>
 					<div class="grid_4">
-                                            <a href="#" class="donate">Καλως Ήρθατε</a>
+                                            <a href="#" class="donate">Καλως ηρθατε</a>
 						<div class="text1">στο Δημοτικό σχολείο Σκουτάρεως</div>
 						<p>Θα μείνουμε ευχαριστημένοι αν η περιήγησή σας στον ιστοτοπό μας, έχει να σας προσφέρει οτιδήποτε επιμορφωτικό, πληροφοριακό ή ψυχαγωγικό.</p>
 					</div>
@@ -159,7 +162,7 @@
 						<div class="block2 maxheight">
 							<div class="title">Η Ιστορια του σχολειου μας</div>
 							<div class="pad">
-								Το 1922 το πρώτο σχολείο στεγάστηκε σε σπίτι ανταλλάξιμο το οποίο παραχωρήθηκε στη σχολική εφορεία μαζί με γήπεδο 2.400 τ.μ. Το διδακτήριο κτίστηκε το 1929 σε γήπεδο 7.016 τ.μ. (116Χ60 περίπου) και ήταν 2/θέσιο με έκταση 182 τ.μ.<div class="alright"><a href="#" class="btn">Περισσοτερα</a></div>
+                                                            Το 1922 το πρώτο σχολείο στεγάστηκε σε σπίτι ανταλλάξιμο το οποίο παραχωρήθηκε στη σχολική εφορεία μαζί με γήπεδο 2.400 τ.μ. Το διδακτήριο κτίστηκε το 1929 σε γήπεδο 7.016 τ.μ. (116Χ60 περίπου) και ήταν 2/θέσιο με έκταση 182 τ.μ.<div class="alright"><a href="schoolstory.php" class="btn">Περισσοτερα</a></div>
 							</div>
 						</div>
 					</div>
@@ -167,21 +170,21 @@
 						<div class="block2 maxheight">
 							<div class="title">ωρολογιο προγραμμα</div>
 							<div class="pad">
-								Εδώ μπορείτε να βρείτε πληροφορίες σχετικά με τα μαθήματα, τις ώρες και τις αίθουσες διδασκαλίας του σχολείου μας.<div class="alright"><a href="#" class="btn">Περισσοτερα</a></div>
+                                                            Εδώ μπορείτε να βρείτε πληροφορίες σχετικά με τα μαθήματα, τις ώρες και τις αίθουσες διδασκαλίας του σχολείου μας.<div class="alright"><a href="lessonprogramm.php" class="btn">Περισσοτερα</a></div>
 							</div>
 						</div>
 					</div>
 					<div class="grid_3">
 						<div class="block2 maxheight">
 							<div class="title">ανακοινωσεις</div>
-							<div class="pad">Εδω θα βρείτε τις τελευταίες ανακοινώσεις του σχολείου μας. <div class="alright"><a href="#" class="btn">περρισσοτερα</a></div>
+                                                        <div class="pad">Εδω θα βρείτε τις τελευταίες ανακοινώσεις του σχολείου μας. <div class="alright"><a href="announcement.php" class="btn">περρισσοτερα</a></div>
 							</div>
 						</div>
 					</div>
 					<div class="grid_3">
 						<div class="block2 maxheight">
 							<div class="title">δρασεις</div>
-							<div class="pad">Εδώ θα βρείτε φωτογραφικό υλικό από τις διάφορες δράσεις και εκδηλώσεις που έχει πραγματοποιήσει το σχολείο μας.<div class="alright"><a href="#" class="btn">περισσότερα</a></div></div>
+                                                        <div class="pad">Εδώ θα βρείτε φωτογραφικό υλικό από τις διάφορες δράσεις και εκδηλώσεις που έχει πραγματοποιήσει το σχολείο μας.<div class="alright"><a href="actions.php" class="btn">περισσότερα</a></div></div>
 						</div>
 					</div>
 					<div class="clear"></div>
@@ -225,7 +228,7 @@
 					<div class="grid_4">
 						<h3 class="nowrap mb0">για χρηστες</h3>
 						Πατήστε παρακάτω για να συνδεθείτε
-						<div class="alright"><a href="#" class="btn">συνδεση</a></div>
+                                                <div class="alright"><a href="users.php" class="btn">συνδεση</a></div>
 					</div>
 					<div class="grid_7 prefix_1">
 						<h3>Σχετικα</h3>
@@ -235,7 +238,7 @@
 							Αν θέλετε να επικοινωνήσετε πατήστε παρακάτω. 
 						</div>
 						<div class="clear"></div>
-						<div class="alright"><a href="#" class="btn">περισσότερα</a></div>
+                                                <div class="alright"><a href="contactus.php" class="btn">περισσότερα</a></div>
 					</div>
 				</div>
 			</div>
