@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Contacts</title>
+		<title>Επικοινωνία</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
@@ -62,10 +62,10 @@
 										</li>
 									</ul> 
 								</li>
-								<li><a href="ourschool.php">Το Σχολειο μας </a></li>
-								<li><a href="index-2.php">Συλλογος Γονεων</a></li>
+								 <li><a href="ourschool.php">Το Σχολειο μας </a></li>
+                                                                <li><a href="parents.php">Συλλογος Γονεων</a></li>
                                                                 <li><a href="actions.php">Δρασεις </a></li>
-								<li><a href="index-4.php">Ευρωπαϊκα Προγραμματα</a></li>
+                                                                <li><a href="europianprograms.php">Ευρωπαϊκα Προγραμματα</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>
@@ -86,30 +86,30 @@
 						</div>
 					</div>
 					<div class="grid_4">
-						<h3>Address</h3>
+						<h3>Διευθυνση</h3>
 						<div class="map">
 							<address>
 								<dl>
-									<dt>The Company Name Inc. <br>
-										8901 Marmora Road,<br>
-										Glasgow, D04 89GR.
+									<dt>Δημοτικό Σχολειο Σκουταρεως <br>
+										Σκούταρι 62100<br>
+										Σέρρες, Ελλάδα
 									</dt>
-									<dd><span>Freephone:</span>+1 800 559 6580</dd>
+									
 									<dd><span>Telephone:</span>+1 800 603 6035</dd>
 									<dd><span>FAX:</span>+1 800 889 9898</dd>
 									<dd>E-mail: <a href="#" class="col1">mail@demolink.org</a></dd>
 									<dd>Skype: <a href="#" class="col1">@skypename</a></dd>
 								</dl>
 							</address>
-							<p>Every single <span class="col1"><a href="http://www.templatemonster.com/website-templates.php" rel="nofollow">premium design</a></span> from TemplateMonster goes with support services. The freebies go without support. </p>
-							Need someone to help you with customization of the chosen free theme? <span class="col1"><a href="http://www.templatetuning.com/" rel="nofollow">Template Tuning</a></span>  team will help you. Note that it’s a paid service.
+							<p>Αν θέλετε να επικοινωνήσετε μαζιμας, συμπληρωστε τα στοιχεια σας, γράψτε το μηνυμά σας στο πλαίσιο και πατηστε αποστολή </p>
+							
 						</div>
 					</div>
 					<div class="grid_8">
-						<h3>Contact Form</h3>
+						<h3>Φορμα επικοινωνιας</h3>
 						<form id="form">
 							<div class="success_wrapper">
-								<div class="success-message">Contact form submitted</div>
+								<div class="success-message">Φορμα επικοινωνιας</div>
 							</div>
 							<label class="name">
 								<input type="text" placeholder="Name:" data-constraints="@Required @JustLetters" />
@@ -134,8 +134,8 @@
 							<div>
 								<div class="clear"></div>
 								<div class="btns">
-									<a href="#" data-type="submit" class="btn">Send</a>
-									<a href="#" data-type="reset" class="btn">Clear</a>
+									<a href="#" data-type="submit" class="btn">Αποστολη</a>
+									<a href="#" data-type="reset" class="btn">Καθαρισμος</a>
 								</div>
 							</div>
 						</form>   

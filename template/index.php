@@ -113,7 +113,6 @@
 								 </li>
                                                                 <li><a href="ourschool.php">Το Σχολειο μας </a></li>
                                                                 <li><a href="parents.php">Συλλογος Γονεων</a></li>
-                                                                <li><a href="actions.php">Δρασεις </a></li>
                                                                 <li><a href="europianprograms.php">Ευρωπαϊκα Προγραμματα</a></li>
                                                         </ul>
 						</nav>
@@ -231,10 +230,10 @@
                                                 <div class="alright"><a href="users.php" class="btn">συνδεση</a></div>
 					</div>
 					<div class="grid_7 prefix_1">
-						<h3>Σχετικα</h3>
+						<h3>Επικοινωνια</h3>
 						<img src="images/page1_img8.jpg" alt="" class="img_inner fleft">
 						<div class="extra_wrapper">
-							<p>Το σχολείο μας στεγάζεται στο Σκούταρι Σερρών. Πατήστε παρακάτω για πλοήγηση σατο χάρτη <span class="col1"><a href=" http://blog.templatemonster.com/free-website-templates/" rel="dofollow">εδώ</a></span>.</p>
+							<p>Το σχολείο μας στεγάζεται στο Σκούταρι Σερρών. Πατήστε παρακάτω για πλοήγηση στο χάρτη <span class="col1"><a href=" http://blog.templatemonster.com/free-website-templates/" rel="dofollow">εδώ</a></span>.</p>
 							Αν θέλετε να επικοινωνήσετε πατήστε παρακάτω. 
 						</div>
 						<div class="clear"></div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Campaigns</title>
+		<title>Ανακοινώσεις</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
@@ -57,13 +57,12 @@
 												<li><a href="#">fresh </a></li>
 												<li><a href="#">archive</a></li>
 											</ul>
-										</li> 
-									</ul>
+										</li>
+									</ul> 
 								</li>
 								<li><a href="ourschool.php">Το Σχολειο μας </a></li>
-								<li><a href="index-2.php">Συλλογος Γονεων</a></li>
-                                                                <li><a href="actions.php">Δρασεις </a></li>
-								<li><a href="index-4.php">Ευρωπαϊκα Προγραμματα</a></li>
+                                                                <li><a href="parents.php">Συλλογος Γονεων</a></li>
+                                                                <li><a href="europianprograms.php">Ευρωπαϊκα Προγραμματα</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>
@@ -77,92 +76,39 @@
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
 				<div class="container_12">
 					<div class="grid_8">
-						<h2>CAmpaigns</h2>
-						<div class="blog">
-							<img src="images/page3_img1.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis noud exercittion ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehederit in voluptate velit.
-								<br>
-								<a href="#" class="btn">Read More</a>
-							</div>
+						<h3>Ανακοινωσεις</h3>
+						
+						<div class="extra_wrapper">
+							<p class="p1 col1"><a href="#">Τιτλος Ανακοινωσης 1</a></p>
+							<p class="p2">
+							Εδώ βρίσκεται η ανακοίνωση 1
+							</p>
 						</div>
-						<div class="blog">
-							<img src="images/page3_img2.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Ted ut erspiciatis unde omnis iste natus error sit voluptateki.</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Dercididunt ut labore et dolore magnaiqua. Ut enimad minim veniam, quis no exercition ullamco laboris nisi ut aliquip ex ea coodo consequat.Duis aute irure dolor in reprerit in trolity wertoli nomit.
-								<br>
-								<a href="#" class="btn">Read More</a>
-							</div>
-						</div>
-						<div class="blog">
-							<img src="images/page3_img3.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Fercididunt ut labore et dolore magnaqua. Ut enimad minim veniam, quis nostrud ttion ullamco laboris nisi ut aliquip esequat.Duis aute irure dolor in ehederit in voluptate velit esse cillum dolore. Eu fugiat nulla pariavtur. 
-								<br>
-								<a href="#" class="btn">Read More</a>
-							</div>
+						
+						<div class="style1">
+							<h3>Ανακοινωση 2</h3>
+							<p class="col1"><a href="#">Τιτλος Ανακοίνωσης 2</a></p>
+							<p>Εδω βρισκεται η ανακοινωση 2 </p>
 						</div>
 					</div>
-					<div class="grid_4">
-						<a href="#" class="donate">Donate</a>
-						<h3 class="head1">poll</h3>
-						<div class="text3"> What do you think about us?</div>
-						<div class="rate">Super 
-							<div class="perc">39%</div>
-							<div class="clear"></div>
-							<div class="scale pr1"><span></span></div>
-						</div>
-						<div class="rate">Good 
-							<div class="perc ">31%</div>
-							<div class="clear"></div>
-							<div class="scale pr2"><span></span></div>
-						</div>
-						<div class="rate">Normal
-							<div class="perc ">20%</div>
-							<div class="clear"></div>
-							<div class="scale pr3"><span></span></div>
-						</div>
-						<div class="rate">Bad
-							<div class="perc ">11%</div>
-							<div class="clear"></div>
-							<div class="scale pr4"><span></span></div>
-						</div>
-						<h3 class="head1">Our team</h3>
-						<div class="bl1">
-							<div class="blog">
-								<img src="images/page3_img4.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Mark Johnson </a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-							<div class="blog">
-								<img src="images/page3_img5.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Ann Parker</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-							<div class="blog">
-								<img src="images/page3_img6.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Emily Willson</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-						</div>
+					<div class="grid_4 ">
+						<a href="#" class="donate">Ολες οι ανακοινωσεις</a>
+						<h4>παλιοτερες ανακοινωσεις</h4>
+						<ul class="list">
+							<li><a href="#">ανακοινωση 4</a></li>
+							<li><a href="#">ανακοινωση 5</a></li>
+							<li><a href="#">ανακοινωση 6</a></li>
+							<li><a href="#">ανακοινωση 7</a></li>
+							<li><a href="#">ανακοινωση 8</a></li>
+							<li><a href="#">ανακοινωση 9</a></li>
+							<li><a href="#">ανακοινωση 10</a></li>
+							<li><a href="#">ανακοινωση 11</a></li>
+							<li><a href="#">ανακοινωση 12</a></li>
+							<li><a href="#">ανακοινωση 13</a></li>
+							<li><a href="#">ανακοινωση 14</a></li>
+							<li><a href="#">ανακοινωση 15</a></li>
+						</ul>
+						
 					</div>
 				</div>
 			</div>
@@ -178,8 +124,8 @@
 							<div class="clear"></div>
 						</div>
 						<div class="copy">
-							<strong>Life in Color</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <br>
-							Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
+							<strong>Δημοτικό Σχολείο Σκουτάρεως</strong>   &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a><br>
+							Website designed by <a href="http://informatics.teicm.gr/" rel="nofollow">ΤΕΙ Κεντρικής Μακεδονίας Τμήμα ΜηχανικώνΠληροφορικής</a>
 						</div>  
 					</div>
 				</div>  

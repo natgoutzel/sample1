@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Campaigns</title>
+		<title>Ευρωπαικα Προγράμματα</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
@@ -77,21 +77,22 @@
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
 				<div class="container_12">
 					<div class="grid_8">
-						<h2>CAmpaigns</h2>
-						<div class="blog">
-							<img src="images/page3_img1.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
+						<h2>Ευρωπαικα Προγράμματα</h2>
+						<div class="td-postcontent">
+                                                    <div class="td-article"><time datetime="2013-01-01">14-12-2013 </time>
 									<a href="#" class="user">admin</a>
 									<a href="#" class="comment">23</a>
-								</div>Incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis noud exercittion ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehederit in voluptate velit.
-								<br>
-								<a href="#" class="btn">Read More</a>
-							</div>
-						</div>
-						<div class="blog">
+                                                                        <div>I am very pround to announce that me and my students(St1,St2 classes) awarded the National and European Quality Label </div>
+                                                                        <div>for our project "Goal Game for authentic learners"in e-twinning! Thank you SOOOOOO much children!!!Congratulations.....</div>
+                                                                        <div> </div>
+                                                                <div><img src="images/childs.jpg" border="0" width="500" style="display: block; margin-left: auto; margin-right: auto;" />
+                                                                    <img src="http://new-twinspace.etwinning.net/image/image_gallery?img_id=34645615&amp;t=1410159223959http://new-twinspace.etwinning.net/image/image_gallery?img_id=34645615&amp;t=1410159223959" border="0" width="500" height="381" style="display: block; margin-left: auto; margin-right: auto;" /></div>
+                                                                <div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"> </div>
+                                                                      <div id="__hggasdgjhsagd_once" style="display: none;"> </div></div>
+                                                 </div>
+                                        <div class="cleared"></div>
+                                        </div>
+					<div class="blog">
 							<img src="images/page3_img2.jpg" alt="" class="img_inner fleft">
 							<div class="extra_wrapper">
 								<p class="col1"><a href="#">Ted ut erspiciatis unde omnis iste natus error sit voluptateki.</a></p>
@@ -104,66 +105,9 @@
 								<a href="#" class="btn">Read More</a>
 							</div>
 						</div>
-						<div class="blog">
-							<img src="images/page3_img3.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Fercididunt ut labore et dolore magnaqua. Ut enimad minim veniam, quis nostrud ttion ullamco laboris nisi ut aliquip esequat.Duis aute irure dolor in ehederit in voluptate velit esse cillum dolore. Eu fugiat nulla pariavtur. 
-								<br>
-								<a href="#" class="btn">Read More</a>
-							</div>
-						</div>
+						
 					</div>
-					<div class="grid_4">
-						<a href="#" class="donate">Donate</a>
-						<h3 class="head1">poll</h3>
-						<div class="text3"> What do you think about us?</div>
-						<div class="rate">Super 
-							<div class="perc">39%</div>
-							<div class="clear"></div>
-							<div class="scale pr1"><span></span></div>
-						</div>
-						<div class="rate">Good 
-							<div class="perc ">31%</div>
-							<div class="clear"></div>
-							<div class="scale pr2"><span></span></div>
-						</div>
-						<div class="rate">Normal
-							<div class="perc ">20%</div>
-							<div class="clear"></div>
-							<div class="scale pr3"><span></span></div>
-						</div>
-						<div class="rate">Bad
-							<div class="perc ">11%</div>
-							<div class="clear"></div>
-							<div class="scale pr4"><span></span></div>
-						</div>
-						<h3 class="head1">Our team</h3>
-						<div class="bl1">
-							<div class="blog">
-								<img src="images/page3_img4.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Mark Johnson </a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-							<div class="blog">
-								<img src="images/page3_img5.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Ann Parker</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-							<div class="blog">
-								<img src="images/page3_img6.jpg" alt="" class="img_inner fleft">
-								<div class="extra_wrapper">
-									<div class="title"><a href="#"> Emily Willson</a></div>Ipsum dolor sit amet, consectetur iscinglite. Inllis eratattis.
-								</div>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 <!--==============================footer=================================-->
